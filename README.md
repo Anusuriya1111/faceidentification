@@ -1,9 +1,12 @@
 Face Identification:
-🛠 Requirements  Install dependencies:  
+
+🛠 Requirements  
+Install dependencies:  
 pip install opencv-python
 pip install opencv-contrib-python
 
-▶️ How to Run  Navigate to the project folder:  
+▶️ How to Run  
+Navigate to the project folder:  
 cd FACEIDENTIFICATION/src 
 
 Run the script: 
