@@ -1,4 +1,4 @@
-<img width="626" height="563" alt="image" src="https://github.com/user-attachments/assets/4aaad314-f8bb-4fd2-b247-ea022474c2c7" />Face Identification:
+Face Identification:
 🛠 Requirements  Install dependencies:  
 pip install opencv-python
 pip install opencv-contrib-python
@@ -10,4 +10,4 @@ Run the script:
 python face_detect.py abba.png
 
 
-![Uploading faceidentification_output.png…]()
+<img width="626" height="563" alt="image" src="https://github.com/user-attachments/assets/4aaad314-f8bb-4fd2-b247-ea022474c2c7" />
